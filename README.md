@@ -8,7 +8,9 @@
   <img align="center" src="https://github.com/zredMonkey/zredMonkey/blob/master/monkey.jpg"/>
 </p>
 
+<!--
 Here are some ideas to get you started:
+-->
 
 <!--
 **zredMonkey/zredMonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,5 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+[comment]: <> (![]&#40;https://github-readme-stats.vercel.app/api?username=zredMonkey&theme=prussian&#41;)
+-->
 
-![](https://github-readme-stats.vercel.app/api?username=zredMonkey&theme=prussian)
