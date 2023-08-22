@@ -5,7 +5,7 @@
 **I'm zredMonkey, a front-end development engineer**
 
 <p align="center">
-  <img align="center" src="https://github.com/zredMonkey/zredMonkey/blob/master/monkey.jpg" style="max-width: 50%;"/>
+  <img align="center" src="https://github.com/zredMonkey/zredMonkey/blob/master/monkey.jpg" width="50%"/>
 </p>
 
 <!--
