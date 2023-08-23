@@ -4,7 +4,14 @@
 
 **I'm zredMonkey, a front-end development engineer**
 
+
+<p align="left">业精于勤，荒于嬉；行成于思，毁于随。</p>
+<p align="left">Learning any language takes a lot of effort. but dont give up.</p>
+
+
+
 <p align="center">
+  <img align="center" src="https://github.com/zredMonkey/zredMonkey/blob/master/yellowMan.gif"/>
   <img align="center" src="https://github.com/zredMonkey/zredMonkey/blob/master/monkey.jpg" width="50%"/>
 </p>
 
