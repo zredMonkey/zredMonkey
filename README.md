@@ -12,7 +12,7 @@
 
 <p align="center">
   <img align="center" src="https://github.com/zredMonkey/zredMonkey/blob/master/yellowMan.gif"/>
-  <img align="center" src="https://github.com/zredMonkey/zredMonkey/blob/master/monkey.jpg" width="50%"/>
+<!--  <img align="center" src="https://github.com/zredMonkey/zredMonkey/blob/master/monkey.jpg" width="50%"/>-->
 </p>
 
 <!--
